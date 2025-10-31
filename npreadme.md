@@ -1,11 +1,3 @@
-Perfect ✅
-You chose **option (A)** — keep all technical terms (e.g., `npm install`, `React`, `Next.js`, `CLI`) in English.
-
-Here’s your **complete translated `README.np.md`**, fully formatted in Markdown and ready for commit ⬇️
-
----
-
-````markdown
 <p align="center">
   <a href="https://lingo.dev">
     <img src="https://raw.githubusercontent.com/lingodotdev/lingo.dev/main/content/banner.compiler.png" width="100%" alt="Lingo.dev" />
@@ -185,11 +177,3 @@ Chat, user comments, र अन्य realtime flows का लागि उप�
 [English](https://github.com/lingodotdev/lingo.dev) • [中文](/readme/zh-Hans.md) • [日本語](/readme/ja.md) • [한국어](/readme/ko.md) • [Español](/readme/es.md) • [Français](/readme/fr.md) • [Русский](/readme/ru.md) • [Українська](/readme/uk-UA.md) • [Deutsch](/readme/de.md) • [Italiano](/readme/it.md) • [العربية](/readme/ar.md) • [עברית](/readme/he.md) • [हिन्दी](/readme/hi.md) • [বাংলা](/readme/bn.md) • [فارسی](/readme/fa.md)
 
 तपाईंको भाषा देख्नुभयो? यदि छैन भने [`i18n.json`](./i18n.json) मा थप्नुहोस् र PR खोल्नुहोस्!
-
-```
-
----
-
-You can now **copy this entire block** into a file named `README.np.md` in your repo.  
-It’s fully formatted, localized into Nepali, and ready for an open-source contribution 🚀
-```
